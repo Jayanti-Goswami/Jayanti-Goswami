@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayanti-Goswami
-- 👀 I’m interested in ...App development
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...google
+- 👀 I’m interested in ...Web development
+- 🌱 I’m currently learning ...Javascript & React
+- 💞️ I’m looking to collaborate on ...MAANG company
 - 📫 How to reach me ...
 
 <!---
